@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="left">Soy Federico Cordeiro, vivo en la localidad de Necochea, Argentina. <br><br>📫 federico.cordeiro95@gmail.com</h4>
 
 ###
