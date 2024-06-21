@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">Actualmente, me encuentro cursando la Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas "TUDAI" en la sede Quequén de UNICEN. Con el objetivo de continuar fortaleciendo mis conocimientos en programación y desarrollo de software.</p>
+<p align="left">Soy un estudiante avanzado de la Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas "TUDAI", en la sede Quequén de la UNICEN. 
+Mi objetivo es seguir fortaleciendo mis conocimientos en programación y desarrollo de software.</p>
 
 ###
 
