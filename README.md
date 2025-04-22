@@ -13,6 +13,8 @@
 <p align="left">Soy un estudiante avanzado de la Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas "TUDAI", en la sede Quequén de la UNICEN. 
 Mi objetivo es seguir fortaleciendo mis conocimientos en programación y desarrollo de software.</p>
 
+---
+
 ###
 
 <h2 align="left">Languages and Tools:</h2>
@@ -45,16 +47,39 @@ Mi objetivo es seguir fortaleciendo mis conocimientos en programación y desarro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
 
+---
+
 ###
 
 <h2 align="left">Connect with me:</h2>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/cordeirofederico/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+<div style="display: flex; justify-content: center; gap: 12px;">
+  <div align="center">
+    <a href="https://www.linkedin.com/in/cordeirofederico/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+    </a>
+  </div>
+  <div align="center">
+    <a href="https://wa.me/542262579632" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp logo" />
+    </a>
+  </div>
+  <div align="center">
+    <a href="mailto:fedecordeiro.dev@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+    </a>
+  </div>
 </div>
+
+---
+
+###
+
+<h2 align="left">📊 GitHub Stats:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedeCordeiro&layout=compact&theme=radical" alt="Lenguajes más usados" height="165"/>
+</p>
 
 ###
